@@ -1,0 +1,26 @@
+.layout{
+  display: flex;
+  justify-content: center;
+}
+
+#books{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+  padding: 100px;
+}
+
+#form{
+  margin: 0 auto;
+}
+
+button:hover{
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.toggle-button{
+  background-color: blue;
+  color: white;
+}

@@ -1,0 +1,1 @@
+Creating a simple library application with Objects to get a better understanding of Object Oriented Programming.
